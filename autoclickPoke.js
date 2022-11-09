@@ -157,8 +157,6 @@ async function autodungeonToggle() {
         if(invisible_tiles != null && !startmenu.classList.contains('show') && document.querySelectorAll('.enemy')[0] == null && invisible_tiles[rand_inv_tile] != null){ 
             invisible_tiles[rand_inv_tile].click();
         };
-
-
        
 
     };
