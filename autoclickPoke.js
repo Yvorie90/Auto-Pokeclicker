@@ -158,9 +158,7 @@ async function autodungeonToggle() {
             invisible_tiles[rand_inv_tile].click();
         };
        
-
     };
-
 };
 
 let openchest = false;
